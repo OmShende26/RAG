@@ -1,6 +1,6 @@
 import os
 import openai
-openai.api_key = 'sk-kG378yX-fqZ6oPSUhQlRELBDkBQtmHSpMZtOpcu2sFT3BlbkFJnuVhf9cFOgsRq9HmdyOBttiAextXolx-sLzcrX-DwA'
+openai.api_key = ''
 import streamlit as st
 import pickle
 import time
